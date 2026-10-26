@@ -13,7 +13,7 @@ manifest:
       import: app/west.yml
     - name: zmk-rgbled-widget
       remote: caksoylar
-      revision: 8756cb7b8114069fa3c25c6f6c990f24988fceff # v0.3
+      revision: e6b467792a1dabef8cfa5c9fd26bfefc9c16662b # main
     - name: zmk-feature-runtime-combo
       remote: cormoran
       revision: main
