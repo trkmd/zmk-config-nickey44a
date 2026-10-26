@@ -20,6 +20,6 @@ manifest:
       import: true
     - name: zmk-feature-custom-settings
       remote: cormoran
-      revision: 5727f85b38
+      revision: 02cc69f210
   self:
     path: config
